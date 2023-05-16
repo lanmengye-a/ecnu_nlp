@@ -231,6 +231,7 @@
 
 
 ## Multimodality
-  -[AAAI 23]Contrastive Masked Autoencoders for Self-Supervised Video Hashing
+- [AAAI 23]Contrastive Masked Autoencoders for Self-Supervised Video Hashing
+
 ## Recommendation System
  
