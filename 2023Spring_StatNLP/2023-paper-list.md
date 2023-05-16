@@ -25,14 +25,6 @@
   - [EMNLP 22] Semi-Supervised Lifelong Language Learning
   - [ICLR 22] Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study 
 
-## Application
-  - [ACL 22] QuoteR: A Benchmark of Quote Recommendation for Writing
-  - [ACL 22] How can NLP Help Revitalize Endangered Languages? A Case Study and Roadmap for the Cherokee Language
-  - [ACL 22] Leveraging Similar Users for Personalized Language Modeling with Limited Data
-  - [ACL 22] GPT-D: Inducing Dementia-related Linguistic Anomalies by Deliberate Degradation of Artificial Neural Language Models
-  - [ACL 22] Learning to Mediate Disparities Towards Pragmatic Communication
-  - [ACL 22] Adaptive Testing and Debugging of NLP Models
-  - [EMNLP 22] Gendered Mental Health Stigma in Masked Language Models
 
 ## Interpretability, Robustness, Compressing, Privacy
   - [ACL 22] Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning 
@@ -80,6 +72,7 @@
   - [EMNLP 22] Probing for Constituency Structure in Neural Language Models
   - [ICLR 23] PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales
   - [ICLR 23] Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 Small 
+  - [AAAI 22] The King is Naked: on the Notion of Robustness for Natural Language Processing
 
 ## Machine Translation, Multi-(Cross-)lingual Tasks
   - [ACL 22] Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation
@@ -102,6 +95,7 @@
   - [EMNLP 22] Reasoning Like Program Executors
   - [EMNLP 22] A Systematic Investigation of Commonsense Knowledge in Large Language Models
   - [EMNLP 22] Data-Efficient Concept Extraction from Pre-trained Language Models for Commonsense Explanation Generation
+  - [AAAI 23]Self-Supervised Logic Induction for Explainable Fuzzy Temporal Commonsense Reasoning
 
 ## Pre-trained Models, Embeddings
   - [ACL 22] AdapLeR: Speeding up Inference by Adaptive Length Reduction
@@ -205,12 +199,6 @@
   - [EMNLP 22] Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again
   - [EMNLP 22] Open-Vocabulary Argument Role Prediction For Event Extraction
  
-
-## Bias / Social Media NLP
-  - [ACL 22] Toward Annotator Group Bias in Crowdsourcing
-  - [ACL 22] An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models
-  - [ACL 22] Transformers in the loop: Polarity in neural models of language
-  - [ACL 22] Richer Countries and Richer Representations
  
 
 ## Generation(Dialog, Summarization, Keyphrase)
@@ -231,12 +219,18 @@
   - [EMNLP 22] Sequentially Controlled Text Generation
   - [EMNLP 22] Binding Language Models in Symbolic Languages
   - [ICLR 23] Calibrating Sequence likelihood Improves Conditional Language Generation 
+  - [AAAI 22] NAREOR: The Narrative Reordering Problem
+  - [AAAI 22] InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation
+  - [AAAI 22] Play the Shannon Game With Language Models: A Human-Free Approach to Summary Evaluation
+  - [AAAI 22]GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection
+  - [AAAI 22] Hybrid Curriculum Learning for Emotion Recognition in Conversation
+  - [AAAI 22]Contrast and Generation Make BART a Good Dialogue Emotion Recognizer
+  - [AAAI 22]Knowledge Bridging for Empathetic Dialogue Generation
+  - [AAAI 23]Universal Information Extraction as Unified Semantic Matching
  
 
-## Structured Prediction
-  - [ACL 22] On The Ingredients of an Effective Zero-shot Semantic Parser
-  - [ACL 22] Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network
-  - [ACL 22] Substructure Distribution Projection for Zero-Shot Cross-Lingual Dependency Parsing
-  - [ACL 22] DeepStruct: Pretraining of Language Models for Structure Prediction
-  - [EMNLP 22] Autoregressive Structured Prediction with Language Models
+
+## Multimodality
+  -[AAAI 23]Contrastive Masked Autoencoders for Self-Supervised Video Hashing
+## Recommendation System
  
