@@ -24,6 +24,7 @@
   - [EMNLP 22] ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback
   - [EMNLP 22] Semi-Supervised Lifelong Language Learning
   - [ICLR 22] Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study 
+  - [IJCAI 22] Function-words Enhanced Attention Networks for Few-Shot Inverse Relation Classification
 
 
 ## Interpretability, Robustness, Compressing, Privacy
@@ -73,6 +74,8 @@
   - [ICLR 23] PINTO: Faithful Language Reasoning Using Prompted-Generated Rationales
   - [ICLR 23] Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 Small 
   - [AAAI 22] The King is Naked: on the Notion of Robustness for Natural Language Processing
+  - [AAAT 23] Global Mixup: Eliminating Ambiguity with Clustering
+  - [IJCAI 22]RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning
 
 ## Machine Translation, Multi-(Cross-)lingual Tasks
   - [ACL 22] Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation
@@ -180,6 +183,7 @@
   - [ICLR 23] Bidirectional Language Models Are Also Few-shot Learners
   - [ICLR 23] Copy is All You Need 
   - [ICLR 23] Parameter-Efficient Fine-Tuning Design Spaces 
+  - [IJCAI 23] A Systematic Survey of Chemical Pre-trained Models
   
 
 ## Information Extraction
@@ -231,7 +235,30 @@
 
 
 ## Multimodality
-- [AAAI 23]Contrastive Masked Autoencoders for Self-Supervised Video Hashing
+  - [AAAI 23] Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer
+  - [AAAI 23] Visually Grounded Commonsense Knowledge Acquisition
+  - [AAAI 23] Learning Semantic Alignment with Global Modality Reconstruction for Video-Language Pre-training towards Retrieval
 
 ## Recommendation System
+  - [SIGIR 22] Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation
+  - [SIGIR 22] User-Centric Conversational Recommendation with Multi-Aspect User Modeling
+  - [SIGIR 22] Selective fairness in recommendation via prompts
+  - [SIGIR 22]Learning to Infer User Implicit Preference in Conversational Recommendation 
+  - [SIGIR 22]Variational Reasoning about User Preferences for Conversational Recommendation 
+  - [SIGIR 22]Analyzing and Simulating User Utterance Reformulation in Conversational Recommender Systems
+  - [SIGIR 22]Improving Conversational Recommender Systems via Transformer-based Sequential Modelling
+  - [SIGIR 22]Conversational Recommendation via Hierarchical Information Modeling 
+  - [SIGIR 22]Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion 
+  - [SIGIR 22]Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction 
+  - [SIGIR 22]Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding
+  - [SIGIR 22]Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective 
+  - [SIGIR 22]Relation-Guided Few-Shot Relational Triple Extraction 
+  - [SIGIR 22]Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation 
+  - [SIGIR 22]Interacting with Non-Cooperative User: A New Paradigm for Proactive Dialogue Policy
+  - [SIGIR 22]COSPLAY: Concept Set Guided Personalized Dialogue System 
+  - [SIGIR 22]Understanding User Satisfaction with Task-Oriented Dialogue Systems 
+  - [SIGIR 22]A Multi-Task Based Neural Model to Simulate Users in Goal Oriented Dialogue Systems 
+  - [SIGIR 22]Task-Oriented Dialogue System as Natural Language Generation 
+  - [IJCAI 22]Self-supervised Graph Neural Networks for Multi-behavior Recommendation
+  - [IJCAI 22]Neural Re-ranking in Multi-stage Recommender Systems: A Review
  
